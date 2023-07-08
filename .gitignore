@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env-cold-email/
 
 # Spyder project settings
 .spyderproject
